@@ -7,10 +7,7 @@ import java.util.Scanner;
 import com.mycompany.project1.AtmOperations;
 import java.util.Scanner;
 
-/**
- *
- * @author shris
- */
+
 public class MainClass {
     public static void main(String[] args){
         AtmOperations op=new AtmOperations();
